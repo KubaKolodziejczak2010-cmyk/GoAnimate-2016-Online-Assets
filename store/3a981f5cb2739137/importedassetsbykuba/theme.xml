@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme id="importedassetsbykuba" name="Imported Assets By Kuba" cc_theme_id="importedassetsbykuba">
+<!--Sorry that there's no indenting, I couldn't get the import script to keep that.-->
+<!--Also, be sure to leave a blank line before <theme>, otherwise the import script breaks.-->
+<char id="327068788" name="the benson apparition" cc_theme_id="family" thumbnail_url="char-default.png" copyable="Y">
+<tags>family,every,copy,of,wrapper,offline,is,_free,software,but,is,also,_cat:personalized</tags>
+</char>
+<prop id="Wrapper-Offline-Logo-Vector.svg-.png" name="Wrapper Offline Logo (2024)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="wrapper_online_diamond_logo__2024__by_codyanimate74_dhsjfcn-fullview.png" name="Wrapper Online Diamond Logo" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="d0f411f624ecc7fcbb4070a5d78206bf_orig.png" name="GoAniFire (2024)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="76627087.png" name="Wrapper Offline (Icon)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Adam Walking.mp3" name="Adam Walking" subtype="soundeffect" duration="6034" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Adam Running.mp3" name="Adam Running" subtype="soundeffect" duration="3369" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Eve Walking.mp3" name="Eve Walking" subtype="soundeffect" duration="5250" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Eve Running.mp3" name="Eve Running" subtype="soundeffect" duration="3369" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Rocky Walking.mp3" name="Rocky Walking" subtype="soundeffect" duration="3996" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Rocky Running.mp3" name="Rocky Running" subtype="soundeffect" duration="3369" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Bob Running.mp3" name="Bob Running" subtype="soundeffect" duration="3369" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Bob Walking (Credit to Fartnoise9).mp3" name="Bob Walking" subtype="soundeffect" duration="3249" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="maxresdefault.jpg" name="Custom Assets" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="maxresdefault (1).jpg" name="Custom Assets LynnGrantzAnimate" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="R.png" name="Anger" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="5a0c691a82e02d31ecb8d002.png" name="Anger (REALLY MAD ANGRY)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="5a0c69d882e02d31ecb8d014.png" name="Sadness" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="5a0c69c382e02d31ecb8d012.png" name="Joy" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="5a0c69a482e02d31ecb8d00f.png" name="Joy And Sadness" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="5a0c693d82e02d31ecb8d005.png" name="Disgust" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="5a0c694f82e02d31ecb8d007.png" name="Disgust2" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="5a0c694782e02d31ecb8d006.png" name="Disgust Pushing" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="5a0c693082e02d31ecb8d004.png" name="Disgust Disgusted" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="5a0c697c82e02d31ecb8d00c.png" name="Fear" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="5a0c69e682e02d31ecb8d015.png" name="Sadness Holding Ball" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="5a0c699982e02d31ecb8d00e.png" name="Joy And Sadness2" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="logo.png" name="GoAnimate Wrapper Logo" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="osl5wdgg.png" name="Bedroom" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="GoAniFire_Logo.png" name="GoAniFire-2024 Logo (FIXED)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="dfkh0kh-55f009a7-aa04-4afd-981c-f811650c32a3.png" name="Klasky Csupo Robot" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="7202e0c7d5b10663cca6763f5e7b18dc.jpg" name="Klasky Csupo Robot2" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Klasky_Csupo_Robot.png" name="Klasky Csupo Robot3" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2024-08-04 12-45-10-400.jpg" name="YouTube Terminated" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2024-08-09 20-33-52-018.jpg" name="YouTube Terminated Mail" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2024-08-09 20-34-14-901.jpg" name="YouTube CGS Mail" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2024-08-09 20-34-33-389.jpg" name="YouTube Blocked Mail" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2024-08-09 20-38-57-795.jpg" name="I Got Warning Strikes Of Kuba" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2024-08-17 16-52-08-202.jpg" name="Kuba Kolodziejczak" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2024-08-17 18-03-49-780.jpg" name="Kuba Kolodziejczak 2" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2024-08-19 12-50-25-952.jpg" name="Kuba Kolodziejczak 3" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2024-08-16 13-48-43-173.jpg" name="Kuba Kolodziejczak 4" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2024-07-22 17-37-37-010.jpg" name="Kuba Kolodziejczak 5" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2024-07-20 09-49-54-326.jpg" name="Kuba Kolodziejczak 6" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2024-07-16 17-55-24-457.jpg" name="Kuba Kolodziejczak 7" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2024-07-15 14-02-36-615.jpg" name="Kuba Kolodziejczak 8" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2024-08-30 15-06-23-961.jpg" name="Kuba Kolodziejczak2" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2024-08-27 13-26-41-489.jpg" name="Wrapper Gold/Diamond Shop Template" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2024-08-27 13-26-45-324.jpg" name="Wrapper Gold/Diamond Shop Template 2" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="maxresdefault (2).jpg" name="Happy Wheels" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="unnamed.png" name="Happy Wheels 2" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="15a194b.png" name="Yugandar 2024" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="1720.jpg" name="McDonald's" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="dedm7fs-966ff246-a555-4e48-b3bc-b2af38318173.png" name="GoAnimate Logo" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="logo (1).png" name="Wrapper Offline 2.1.0 (Logo)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="videoplayback.mp3" name="Klasky Csupo Robot Logo" subtype="soundeffect" duration="5851" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Happy Wheels.mp3" name="Happy Wheels - Theme Song" subtype="bgmusic" duration="120346" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="City_Background.jpg" name="City Background - Happy Wheels" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Green_Hills_Background.jpg" name="Green Hills Background - Happy Wheels" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Spongebob_squarepants.png" name="Spongebob Squarepants (Wrapper Offline 2.1.0)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="image_processing20230117-8024-fzor94.png" name="Toys (Wrapper Offline 2.1.0)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="162-1628780_hd-cartoon-hand-painted-small-train-toy-free.png" name="Toys (Wrapper Offline 2.1.0) 2" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="496646855d43a7584f7cbebf36529d69.jpg" name="Toys (Wrapper Offline 2.1.0) 3" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="6a6c79e0cca738fecf280e167b95cbf8-gift-box-cartoon-icon-60.png" name="Gift Box (Wrapper Offline 2.1.0)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="fc9b7de34c9364931c969df45e8a96ff-gift-box-hand-drawn-cartoon-icon-6.png" name="Gift Box (Wrapper Offline 2.1.0) 2" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="box1.png" name="Gift Box (Wrapper Offline 2.1.0) 3" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="1.png" name="Background (Wrapper Offline 2.1.0)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Vyond_Logo.png" name="Vyond (Logo 2018-2024)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="dun-dun-duuun-v01-105105.mp3" name="DUN DUN DUUUN" subtype="soundeffect" duration="8376" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="dun_dun_dun-Delsym-719755295.mp3" name="DUN DUN DUUUN 2" subtype="soundeffect" duration="2520" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Weegee.png" name="Weegee" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Weegee.png" name="Mega Weegee" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Ultimate_Weegee_V2.png" name="Weegee 2" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Ultimate_Malleo.png" name="Malleo 2" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Shupa_Malleo_by_theMarioBrother-1-.png" name="Malleo" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="d5392f1adc4de8d5f9dfe000263c1b84.jpg" name="Talking Ben" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="unnamed (1).png" name="Talking Ben (Icon 1)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="2bh8zvma.png" name="Talking Ben (Icon 2)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="olj7kfej.png" name="Talking Ben (Icon 3)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="7yv3erfm.png" name="Talking Ben (Icon 2011)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Party.mp3" name="Party" subtype="soundeffect" duration="74400" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="qggdn-0m5a9.swf" name="Rainbow Background" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Stairs.mp3" name="Stairs" subtype="soundeffect" duration="7601" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Really Realistic plane crash sound effect.mp3" name="9/11 Plane Crash Sound Effect - SFX" subtype="soundeffect" duration="17737" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="lqnhzz9s.png" name="Airplane" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="channels4_profile.jpg" name="Kuba Kolodziejczak's Channel331" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2024-07-25 18-39-05-387.jpg" name="Kuba Kolodziejczak 9" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2024-08-06 21-41-29-725.jpg" name="Kuba Kolodziejczak 10" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="GoAniFire Demo Thumbnail Community Library.jpg" name="GoAniFire Demo Thumbnail" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="The_Andersons_House.png" name="The Anderson's House" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="The Many Adventure's Of The Creator And Friends.png" name="The Many Adventure's Of The Creator And Friends" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Klasky Csupo Robot Logo.mp3" name="Klasky Csupo Robot Logo" subtype="soundeffect" duration="5784" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Klasky Csupo Robot Logo (Vocoder).mp3" name="Klasky Csupo Robot Logo (Vocoder)" subtype="soundeffect" duration="5784" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<effect id="goani_new_flash_effect_28_invertcolor.swf" type="ANIME" resize="false" move="false" name="Inverted Color" enable="Y" is_premium="N" aid="23194" money="0" sharing="0" display_order="0"/>
+<sound id="acid_jazz_vocoder.mp3" name="Club Jazz (Vocoder)" subtype="bgmusic" duration="33216" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Coffin Dance (EARRAPE).mp3" name="Coffin Dance" subtype="bgmusic" duration="24336" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Elmo's Song.mp3" name="Elmo's Song" subtype="bgmusic" duration="45672" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Coffin Dance.mp3" name="Coffin Dance (FIXED)" subtype="bgmusic" duration="24336" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="EARRAPE MUSIC.mp3" name="EARRAPE MUSIC" subtype="bgmusic" duration="186552" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Electric chair execution (sound effect).mp3" name="Electric chair execution" subtype="soundeffect" duration="16752" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="Bez nazwy.png" name="Execution Chair" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="MP5 Shooting.mp3" name="MP5 Shooting" subtype="soundeffect" duration="835" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="DoorOpen3.mp3" name="Door Open" subtype="soundeffect" duration="574" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="DoorClose0.mp3" name="Door Close" subtype="soundeffect" duration="679" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="DoorLocked.mp3" name="Door Locked" subtype="soundeffect" duration="1097" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Door Locked 2.mp3" name="Door Locked 2" subtype="soundeffect" duration="6269" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Door Locked 2 (LOUD).mp3" name="Door Locked (LOUD)" subtype="soundeffect" duration="6269" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Door Locked 2 (SUPER LOUD).mp3" name="Door Locked (SUPER LOUD)" subtype="soundeffect" duration="6269" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Angry German Kid Beating Up Sound Effect (EARRAPE).mp3" name="Angry German Kid Beating Up Sound Effect (EARRAPE)" subtype="soundeffect" duration="12460" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Angry German Kid Beating Sound Effect.mp3" name="AGK Beating Up" subtype="soundeffect" duration="12456" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="AGK Beating Sound Effect.mp3" name="AGK Beating Sound Effect" subtype="soundeffect" duration="12456" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="My Teardrop OST.mp3" name="My Teardrop OST." subtype="bgmusic" duration="85176" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="My Teardrop OST Original.mp3" name="My Teardrop OST Original" subtype="bgmusic" duration="230112" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="SML Mario Theme.mp3" name="SML Mario Theme" subtype="bgmusic" duration="167112" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="KSI's New Song.mp3" name="KSI's New Song!" subtype="bgmusic" duration="176856" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2024-11-17 14-25-39-170.jpg" name="Spongebob Squarepants Theme!" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Put The Phone Down.mp3" name="Put The Phone Down!" subtype="soundeffect" duration="18552" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="463391616_122120979062463429_6499895291433872526_n.jpg" name="Real Life PFP (August 2024)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="466132885_122125981184463429_4154216352975720186_n (1).jpg" name="Real Life PFP (Nov-Dec Early 2024)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="469401136_122143351916361193_953992737854535191_n.jpg" name="Real Life PFP (Dec Early-Late 2024)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="469204116_122143546928361193_6179788851480118437_n.jpg" name="City!" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="448758477_122105767286361193_5414297550304939957_n.jpg" name="Real Life PFP (June 2024)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="005cfb20cba49e7a8642f699b9a29d96.jpeg" name="Bus" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="3lbhnws8.png" name="School Bus" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="PngItem_1454788.png" name="Bus 2" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="512wfrip.png" name="Cocomelon Bus" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="ge3xiu7v.png" name="Snowman" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bvmi5u06.png" name="Super Mario Bros DVD" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="1720 (1).jpg" name="Snow" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="7a9vmasf.png" name="YouTube Homepage" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="l88x8gub.png" name="Santa Sleigh" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="u955kv7z.png" name="Spongebob Ballon Macy's Thanksgiving Day Parade" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="PTPD On Polish.mp3" name="Put the Phone Down (Polish)" subtype="soundeffect" duration="10161" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2024-12-18 17-00-13-054.jpg" name="Oobi64 And Kuba Videos" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2024-12-18 17-00-18-699.jpg" name="Oobi64 And Kuba Videos 2" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Kuba Jumpscare.mp3" name="Kuba Jumpscare" subtype="soundeffect" duration="4179" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Kuba Screaming.mp3" name="Kuba Screaming" subtype="soundeffect" duration="11755" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Kuba Screaming (LOUD).mp3" name="Kuba Screaming (LOUD)" subtype="soundeffect" duration="11755" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Jumpscare Sound 1.mp3" name="Polish Guy Screaming" subtype="soundeffect" duration="1985" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Jumpscare Sound 3.mp3" name="Girl Moaning Jumpscare" subtype="soundeffect" duration="6138" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Loud Nigra.mp3" name="Man Screaming (Full Version)" subtype="soundeffect" duration="34873" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Man Screaming Sound Effect (READ DESC for MP3FORM).mp3" name="Man Screaming" subtype="soundeffect" duration="10788" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Man screaming  (Original meme).mp3" name="Man Screaming 2" subtype="soundeffect" duration="13688" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Eric_Your_Grounded.mp3" name="Eric Your Grounded!" subtype="soundeffect" duration="157388" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Eric Oh Oh Oh.mp3" name="Eric Oh Oh Oh" subtype="soundeffect" duration="19173" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="GRRRRRRRRRRRRRRRRRRR_394.mp3" name="Eric GRRRRRRRR!" subtype="soundeffect" duration="34769" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="No_No_No_No_No_No_No_591 (LOUD).mp3" name="Eric No No No" subtype="soundeffect" duration="12773" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="No_No_No_No_No_No_No_591.mp3" name="Eric No No No (Original)" subtype="soundeffect" duration="12773" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Oh_Oh_Oh_Oh_Oh_Oh_448.mp3" name="Eric Oh Oh Oh 2" subtype="soundeffect" duration="20036" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="waaaaaaaaaaaaaaaaaaa_336.mp3" name="Eric Crying" subtype="soundeffect" duration="19931" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="YouTube Homepage.jpg" name="YouTube Homepage" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="YouTube Logo.jpg" name="YouTube Logo Background" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="51377410.jpg" name="YouTube Homepage 2" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="49681556.png" name="YouTube Video Player Mockup" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="37081142.jpg" name="YouTube Logo Background 2" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="83210032.png" name="Create YouTube Account" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="126194754.jpg" name="Create YouTube Account 2" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="107378231.png" name="YouTube Homepage 3" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="vucc9pia.png" name="Blood Splatter" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="rd2u6a8t.png" name="Blood Splatter 2" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="jievsekn-removebg-preview.png" name="Blood Splatter 3" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="j8jr68z9.png" name="Blood Splatter 4" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="hwrkhowc.png" name="Blood Splatter 5" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="j8l95djb.png" name="Vomit Splatter" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="pdnxfdwu.png" name="Santa Claus" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="132-1321348_po-talking-10-plush-teletubbies-po-removebg-preview.png" name="Teletubbies Po Plush" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Santa_Claus_Cartoon_PNG_Clipart-49.png" name="jace18099's Santa Claus" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="6b5riji2.png" name="Santa Claus (ANGRY REALLY MAD)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam_2024-12-19_13-58-29-318-removebg-preview.png" name="Kolodziejczak. J (Normal)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam_2024-12-19_13-58-50-533-removebg-preview.png" name="Kolodziejczak. J (Angry Front)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam_2024-12-19_13-59-16-045-removebg-preview.png" name="Kolodziejczak. J (Angry)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam_2024-12-19_13-59-46-558-removebg-preview.png" name="Kolodziejczak. J (ANGRY REALLY MAD!)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam_2024-12-19_14-00-12-381-removebg-preview.png" name="Kolodziejczak. J (Crying)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam_2024-12-19_14-00-21-594-removebg-preview.png" name="Kolodziejczak. J (Crying Stand)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Santa Claus Shocked.png" name="jace18099's Santa (UH OH!)" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="49ucryhp.png" name="YouTube Community Guidelines Strike Email!" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="0ohp55jp.png" name="YouTube Community Guidelines Strike Email 2" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="iq7c0wyq.png" name="YouTube Copyright Strikes Email!" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="Jail.jpg" name="Jail" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="Jail 2.jpg" name="Jail 2" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="9ygq4iw2.png" name="Wheelchair" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+
+</theme>
